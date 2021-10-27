@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/DUNGIT121/Blog_nodeJs#readme",
   "lint-staged": {
-    "src/**/*.{js,json,scss": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
+    "\"src/**/*.{js,json,scss\"": "prettier --single-quote --trailing-comma all --tab-width 4 --write"
   },
   "husky": {
     "hooks": {
